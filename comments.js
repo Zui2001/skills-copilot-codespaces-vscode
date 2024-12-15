@@ -1,6 +1,4 @@
-// create a wev server
-// create a route for comments
-// send back some comments
+// Create a wev server
 
 const express = require('express');
 const app = express();

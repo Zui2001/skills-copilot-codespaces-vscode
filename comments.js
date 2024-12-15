@@ -1,4 +1,4 @@
-// Create a wev server
+// Create wev server
 
 const express = require('express');
 const app = express();
